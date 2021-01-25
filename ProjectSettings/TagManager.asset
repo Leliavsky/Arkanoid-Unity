@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Breakable
+  - LoseWall
+  - Paddle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2115006043
+    locked: 0
+  - name: Pad
+    uniqueID: 3609099481
+    locked: 0
+  - name: Ball
+    uniqueID: 1426835131
+    locked: 0
+  - name: Brick
+    uniqueID: 1604792025
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
